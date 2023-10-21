@@ -1,2 +1,0 @@
-# portscanner_in_python
-PORTFOLIO PROJECTS IN CYBERSECURITY
